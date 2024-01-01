@@ -5,9 +5,9 @@ A simple male-female detection modal built using python,tensorflow,cv2
 
 ## Screenshots
 
-![App Screenshot](https://github.com/RajatPetkar/)
+![App Screenshot](https://github.com/RajatPetkar/male-female_detection/blob/main/Male-Female%20Modal/dataset/Screenshots/Screenshot%20(91).png)
 
-![App Screenshot](https://github.com/RajatPetkar/SignCall-2/blob/main/Screenshot%20(61).png)
+![App Screenshot](https://github.com/RajatPetkar/male-female_detection/blob/main/Male-Female%20Modal/dataset/Screenshots/Screenshot%20(91).png)
 
 ## Contributing
 
